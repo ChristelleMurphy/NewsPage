@@ -71,13 +71,6 @@ h2{
   color:rgb(80, 6, 6);
 }
 
-h2:hover{
-  color:rgb(255, 92, 255);
-}
-
-.top-article:hover{
-  color:rgb(255, 92, 255);
-}
 /*align the heading and lines*/
 
 .pa-heading-line-right h2 {
