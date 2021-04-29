@@ -126,3 +126,24 @@ h2{
 .pa-heading-line-both h1:after {
 	margin: 0 0 0 20px;
 }
+
+#footer-nav{
+  display: flex;
+  justify-content: center;
+  margin-top: 5%;
+  margin-bottom: 10%;
+}
+
+#footer-nav li{
+  display: inline-block;
+  margin-right: 20px;
+  font-family: 'Merriweather', serif;
+}
+
+#footer-nav a{
+  color: white;
+}
+
+#footer-nav a:hover{
+ color: lightgrey;
+}
