@@ -8,10 +8,6 @@ body{
     display: inline-block;
     margin: 10%;
 }
-.heading{
-  font-size: 40px;
-  font-family: 'Roboto', sans-serif;
-}
 
 /* Add a black background color to the top navigation */
 nav#main {
@@ -19,6 +15,7 @@ nav#main {
   overflow: hidden;
   display: flex;
   justify-content: center;
+  font-family: 'Merriweather', serif;
 }
 
 nav#main li{
@@ -34,7 +31,9 @@ nav#main a {
   text-decoration: none;
   font-size: 17px;
 }
-
+.article-preview{
+  font-family: 'Lora', serif;
+}
 /* Change the color of links on hover */
 nav#main a:hover {
   background-color: #ddd;
